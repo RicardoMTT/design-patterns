@@ -27,3 +27,10 @@ un intermediario entre el controlador y los componentes de negocio o infraestruc
 
 ```text
 Controller --> Facade --> Servicios / Repositorios / APIs externas
+```
+
+### Estructura
+
+![image](https://github.com/user-attachments/assets/5bc3d0c0-1ae6-4540-8d79-c7d93c4306d1)
+
+
